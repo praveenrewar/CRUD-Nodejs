@@ -1,0 +1,17 @@
+{
+"workbench.colorTheme": "Monokai",
+"explorer.openEditors.visible": 0,
+"editor.tabSize": 2,
+"workbench.iconTheme": "vscode-icons",
+"workbench.editor.revealIfOpen": true,
+"editor.fontFamily": "'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'", //Segoe UI Light
+"files.trimTrailingWhitespace": true,
+"javascript.validate.enable": false,
+"vsicons.dontShowNewVersionMessage": true,
+"editor.minimap.enabled": false,
+"window.zoomLevel": -1,
+"eslint.autoFixOnSave": true,
+"workbench.startupEditor": "newUntitledFile",
+"editor.cursorBlinking": "solid",
+"editor.formatOnSave": true
+}
